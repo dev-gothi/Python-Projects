@@ -1,6 +1,6 @@
 # DG Library Management System
 
-A simple command-line Library Management System built in Python using Object-Oriented Programming. It allows you to manage books, members, and borrowing transactions, with data persisted locally in a JSON file.
+It is a simple command-line Library Management System built in Python using Object-Oriented Programming. It allows you to manage books, members, and borrowing transactions, with data persisted locally in a JSON file.
 
 ## Features
 
@@ -33,7 +33,7 @@ Represents a library member with `memberid`, `name`, `email`, and a list of curr
 Represents a borrow/return record with issue date, due date (14 days from issue), return date, and calculated fine (₹1/day for late returns).
 
 ### `Library`
-Orchestrates the system — manages collections of books, members, and transactions, and handles all operations (add, search, issue, return, save/load).
+The system — manages collections of books, members, and transactions, and handles all operations (add, search, issue, return, save/load).
 
 ## Getting Started
 
