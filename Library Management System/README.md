@@ -59,22 +59,13 @@ You'll be presented with a menu:
 8. View All Transactions
 9. Exit
 ```
-
-Follow the prompts to interact with the system. Data is automatically saved to `data.json` after every change.
+Select any option to interact with the system. Data is automatically saved to `data.json` after every change.
 
 ## How It Works
 
 - **Issuing a book**: Checks that the member and book exist and that the book is available, then marks it as unavailable, adds it to the member's borrowed list, and creates a new transaction.
 - **Returning a book**: Verifies the member has the book borrowed, finds the matching open transaction, marks the book available again, sets the return date, and calculates any late fine.
 - **Fines**: ₹1 per day late, calculated automatically on return.
-
-## Notes / Possible Improvements
-
-- Add input validation (e.g., duplicate book/member IDs, empty fields)
-- Add update/delete operations for books and members
-- Add a "View Borrowed Books" option per member
-- Move fine rate to a configurable constant
-- Add unit tests for `Library` methods
 
 ## Author
 
