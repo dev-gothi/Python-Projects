@@ -1,6 +1,6 @@
-# 🏧 DG ATM System
+# 🏧 ATM System
 
-A simple command-line **ATM System** built in Python using Object-Oriented Programming (OOP). It simulates basic ATM operations — setting a PIN, checking balance, depositing, and withdrawing money — with support for multiple independent ATM/account instances.
+This is a simple command-line **ATM System** built in Python using Object-Oriented Programming (OOP). It simulates basic ATM operations — setting a PIN, checking balance, depositing, and withdrawing money — with support for multiple independent ATM/account instances.
 
 ---
 
@@ -21,7 +21,7 @@ A simple command-line **ATM System** built in Python using Object-Oriented Progr
 
 ```
 ATM System/
-├── atm.py       # Atm class — all logic in one file
+├── ATM.py       # Atm class — all logic in one file
 └── README.md    # Project documentation
 ```
 
