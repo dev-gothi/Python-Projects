@@ -1,6 +1,6 @@
 # 🐍 Python-Projects
 
-A collection of beginner-to-intermediate Python projects built using Object-Oriented Programming (OOP) concepts. Each project is a standalone command-line application with its own folder, code, and documentation.
+It is a collection of my Python projects built using Object-Oriented Programming (OOP) concepts. Each project is a standalone command-line application with its own folder, code, and documentation.
 
 ---
 
@@ -95,15 +95,6 @@ python contact_book.py
 cd "ATM System"
 python atm.py
 ```
-
----
-
-## 🛠️ General Roadmap
-
-- [ ] Add unit tests across all projects
-- [ ] Add input validation consistently across all projects
-- [ ] Add `.gitignore` for generated data files (`data.json`, `contacts.json`)
-- [ ] Add more projects as learning progresses
 
 ---
 
