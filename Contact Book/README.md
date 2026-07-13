@@ -1,6 +1,6 @@
 # 📇 DG Contact Book
 
-A simple command-line **Contact Book** application built in Python using Object-Oriented Programming (OOP). It lets you add, view, search, update, and delete contacts, with data persisted locally in a JSON file.
+It is a simple command-line **Contact Book** application built in Python using Object-Oriented Programming (OOP). It lets you add, view, search, update, and delete contacts, with data persisted locally in a JSON file.
 
 ---
 
