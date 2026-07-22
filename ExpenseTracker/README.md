@@ -1,4 +1,4 @@
-# 💰 DG Expense Tracker
+#  DG Expense Tracker
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Handling-150458?style=flat-square&logo=pandas&logoColor=white)
