@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-CLI-lightgrey?style=flat-square)
 
-A command-line expense tracker built with **Python** and **Pandas**. Add, view, delete, and summarize expenses, set category-wise budget limits with automatic overspend warnings, and export summary reports — all with persistent CSV/JSON storage.
+I have designed a command-line expense tracker built with **Python** and **Pandas**. Add, view, delete, and summarize expenses, set category-wise budget limits with automatic overspend warnings, and export summary reports — all with persistent CSV/JSON storage.
 
 ---
 
@@ -71,7 +71,7 @@ python main.py
 
 ## 🎯 What I Learned
 
-This project was built as a hands-on way to strengthen Python fundamentals — OOP design, Pandas data manipulation, and file-based persistence — outside of my core VLSI/hardware coursework. Key concepts practiced:
+This project was built as a hands-on way to strengthen Python fundamentals — OOP design, Pandas data manipulation, and file-based persistence :
 
 - Structuring a stateful class around a Pandas DataFrame
 - Correctly using `pd.concat()` with `ignore_index` vs `.drop().reset_index()`
@@ -80,14 +80,6 @@ This project was built as a hands-on way to strengthen Python fundamentals — O
 
 ---
 
-## 📌 Possible Future Improvements
-
-- [ ] Input validation for dates and numeric fields
-- [ ] Monthly/trend-based analysis
-- [ ] Data visualization (matplotlib charts)
-- [ ] Web version (Flask + HTML/CSS)
-
----
 
 ## 👤 Author
 
